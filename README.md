@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=System.init(%22Daniel_TW%22);;Learning+Python...;;Building+Useful+Tools...;Hello,+World!;" alt="Typing SVG" />
+</h1>
 
-<!--
-**Daniel046TW/Daniel046TW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Python_Development-00FF66?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-00BFFF?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 `whoami`
+
+```bash
+> Daniel_TW.details
+  ├── Current Goal   : 深入學習 Python，打造各種實用的自動化小工具 🛠️
+  ├── Background     : 曾短暫接觸過 C++ ⚡
+  └── Philosophy     : Keep Coding, Stay Curious. 🚀
