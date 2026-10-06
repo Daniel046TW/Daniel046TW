@@ -39,7 +39,7 @@
 ### 📊 github.stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Daniel046TW&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=0D1117" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Daniel046TW&locale=zh-tw&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=0D1117" />
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Daniel046TW&locale=zh-tw&layout=compact&theme=dark&hide_border=true&title_color=00FF66&text_color=FFFFFF&bg_color=0D1117" />
 </p>
 
