@@ -45,7 +45,7 @@
 
 ---
 
-### 🌐 connect.protocol
+### 🌐 如何找到我
 
 <p align="center">
   <a href="https://discord.gg/CA6Eqj8V" target="_blank">
