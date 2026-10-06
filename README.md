@@ -9,16 +9,16 @@
 
 ---
 
-### 💻 whoami
+### 💻 關於我
 
 - 🎯 **目前目標**：深入學習 Python，打造各種實用的自動化小工具 🛠️
-- ⚡ **過去經驗**：曾短暫接觸過 C++
-- 🚀 **興趣領域**：熱衷於探索新科技與程式技術
-- 💬 **座右銘**：Keep Coding, Stay Curious.
+- ⚡ **過去經驗**：曾非常短暫接觸過 C++
+- 🚀 **興趣領域**：熱衷於探索新科技與程式
+- 💬 **座右銘**：別被別人約束，做自己的主人
 
 ---
 
-### 🛠️ system.skills
+### 🛠️ 我在摸索的事物
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,10 +29,10 @@
 
 ---
 
-### ⚡ projects.in_progress
+### ⚡ 目標為
 
 - 🐍 **Python 實用小工具庫**（持續開發與探索中...）
-- 💡 **演算法與邏輯思考練習**
+- 💡 **深入研究python**
 
 ---
 
