@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Python_Development-00FF66?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-正在學習_Python-00FF66?style=for-the-badge&logo=python&logoColor=black&labelColor=101414"/>
+  <img src="https://img.shields.io/badge/Focus-專注研究_Python-00BFFF?style=for-the-badge&logo=python&logoColor=white&labelColor=0A192F"/>
 </p>
 
 ---
