@@ -60,9 +60,5 @@
 <br />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daniel046TW&label=Profile%20Views&color=00FF66&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=100&section=footer" />
 </p>
